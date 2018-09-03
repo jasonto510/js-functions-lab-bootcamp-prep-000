@@ -8,5 +8,10 @@ function happyHolidaysTo(Jason){
 }
 
 function happyHolidayTo(Christmas, Santa){
-  return
+  return "'Happy ${holiday}, ${name}'"
 }
+
+function holidayCountdown(holiday, daystil){
+  
+}
+
